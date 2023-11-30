@@ -1,0 +1,14 @@
+.play_icon {
+    width: 20%;
+}
+
+
+.start h1 {
+    font-size: 3.5em;
+}
+
+.start p {
+    font-size: 2em;
+    margin-bottom: 2em;
+    color: yellow;
+}
